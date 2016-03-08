@@ -2,6 +2,7 @@
 Top-level website for Australasian Document Computing Symposium (served at http://adcs-conference.org)
 
 To edit these pages you can use the GitHub automatic page generator:
+* Make sure you are logged in with your Github account.
 * Go to the settings section of this respository: [https://github.com/adcs-conference/adcs-conference.github.io/settings]
 * Select "Launch automatic page generator"
 * Make your relevant changes.

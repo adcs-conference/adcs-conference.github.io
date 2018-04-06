@@ -5,22 +5,26 @@ Australasian Document Computing Symposium is an annual conference held in Austra
 ADCS is an opportunity for researchers and practitioners in document management and information retrieval to meet and present their work. The symposium aims to cover all aspects of Document Computing and Information Retrieval. The symposium emphasises both commercial and academic issues by encouraging a variety of submissions.
 
 ### Steering Committee
-As of 2015:
-* Shlomo Geva, Queensland University of Technology. 
-* Andrew Trotman, eBay. 
-* Laurianne Sitbon, Queensland University of Technology.
-* Shane Culpepper, RMIT.
-* James Thom, RMIT.
-* Falk Scholer, RMIT
-* Andrew Turpin, University of Melbourne. 
-* Paul Thomas, Microsoft.
-* Sally Jo Cunningham, The University of Waikato.
-* Mark Sanderson, RMIT.
-* Laurence Park, University of Western Sydney.
-* Sarvnaz Karimi, CSIRO.
-* Guido Zuccon, Queensland University of Technology. 
+
+The steering committee is made up of the General Chairs and Program Chairs from the previous 6 ADCS.
+
+As of 2018:
+
+* Andrew Trotman, University of Otago (2018). 
+* Bevan Koopman, CSIRO (2018). </lib>
+* Paul Thomas, Microsoft (2018).
+* Mark Carman, Monash University (2017). 
+* Guido Zuccon, Queensland University of Technology(2017). 
+* Sarvnaz Karimi, CSIRO (2016).
+* Laurence Park, Western Sydney University(2015).
+* Falk Scholer,	RMIT University (2014)
+* Shane Culpepper, RMIT (2014).
+* Laurianne Sitbon, Queensland University of Technology (2013).
+* Sally Jo Cunningham, The University of Waikato (2012).
 
 ### History
+* [2018](http://adcs-conference.org/2018/)  Dunedin -- University of Otago
+* [2017](http://adcs-conference.org/2017)  Brisbane -- Queensland University of Technology
 * [2016](http://adcs-conference.org/2016/)  Melbourne --    Monash University
 * 2015	Sydney --       University of Western Sydney
 * 2014	Melbourne --	RMIT

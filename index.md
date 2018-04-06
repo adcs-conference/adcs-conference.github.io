@@ -28,13 +28,13 @@ As of 2015:
 * 2012	Dunedin --	University of Otago
 * 2011	Canberra --	ANU
 * 2010	Melbourne --	University of Melbourne
-* 2009	Sydney --	HCSNet / University of New South Wales
-* 2008	Hobart --	CSIRO ICT Centre
+* [2009](http://adcs-conference.org/2009/)	Sydney --	HCSNet / University of New South Wales
+* [2008](http://adcs-conference.org/2008/)	Hobart --	CSIRO ICT Centre
 * 2007	Melbourne --	RMIT University
 * 2006	Brisbane --	Queensland University of Technology
 * 2005	Sydney --	University of Sydney
 * 2004	Melbourne --	University of Melbourne
-* 2003	Canberra --	CSIRO ICT Centre
+* [2003](http://adcs-conference.org/2003/)	Canberra --	CSIRO ICT Centre
 * 2002	Sydney --	University of Sydney
 * 2001	Coffs Harbour --	Swinburne University
 * 2000	Sunshine Coast --	DSTC

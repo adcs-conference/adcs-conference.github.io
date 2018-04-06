@@ -11,7 +11,7 @@ The steering committee is made up of the General Chairs and Program Chairs from 
 As of 2018:
 
 * Andrew Trotman, University of Otago (2018). 
-* Bevan Koopman, CSIRO (2018). </lib>
+* Bevan Koopman, CSIRO (2018).
 * Paul Thomas, Microsoft (2018).
 * Mark Carman, Monash University (2017). 
 * Guido Zuccon, Queensland University of Technology(2017). 

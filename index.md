@@ -28,7 +28,7 @@ As of 2018:
 * [2018](http://adcs-conference.org/2018/)  Dunedin -- University of Otago
 * [2017](http://adcs-conference.org/2017)  Brisbane -- Queensland University of Technology
 * [2016](http://adcs-conference.org/2016/)  Melbourne --    Monash University
-* 2015	Sydney --       University of Western Sydney
+* [2015](http://adcs-conference.org/2015/)	Sydney --       University of Western Sydney
 * 2014	Melbourne --	RMIT
 * 2013	Brisbane --	QUT
 * 2012	Dunedin --	University of Otago

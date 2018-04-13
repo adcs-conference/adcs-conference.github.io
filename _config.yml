@@ -1,7 +1,7 @@
 title: Australasian Document Computing Symposium
-description: Details on the Australasian Document Computing Symposium.
+description: Details of the Australasian Document Computing Symposium.
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:

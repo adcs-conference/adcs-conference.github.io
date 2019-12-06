@@ -2,7 +2,7 @@
 
 Australasian Document Computing Symposium is an annual conference held in Australia or New Zealand since 1996.
 
-**[ADCS 2019](http://adcs-conference.org/2019/) will be held in Sydney, Australia, on 5-6 December.** [ADCS 2018](http://adcs-conference.org/2018/) was held in Dunedin, New Zealand.
+[ADCS 2019](http://adcs-conference.org/2019/) was held in Sydney, Australia, on 5-6 December. [ADCS 2018](http://adcs-conference.org/2018/) was held in Dunedin, New Zealand.
 
 ADCS is an opportunity for researchers and practitioners in document management and information retrieval to meet and present their work. The symposium aims to cover all aspects of Document Computing and Information Retrieval. The symposium emphasises both commercial and academic issues by encouraging a variety of submissions.
 
@@ -25,6 +25,7 @@ As of 2018:
 * Sally Jo Cunningham, The University of Waikato (2012).
 
 ### History
+* [2019](http://adcs-conference.org/2019/)  Sydney -- University of Technology Sydney
 * [2018](http://adcs-conference.org/2018/)  Dunedin -- University of Otago
 * [2017](http://adcs-conference.org/2017)  Brisbane -- Queensland University of Technology
 * [2016](http://adcs-conference.org/2016/)  Melbourne --    Monash University

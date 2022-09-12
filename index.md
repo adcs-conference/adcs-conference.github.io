@@ -3,14 +3,16 @@
 Australasian Document Computing Symposium is an annual conference held in Australia or New Zealand since 1996.
 
 
-* [ADCS 2021](http://adcs-conference.org/2021/) Melbourne, RMIT University.
+* [ADCS 2022](http://adcs-conference.org/2022/) Adelaide, Flinders University.
+
 
 ADCS is an opportunity for researchers and practitioners in document management and information retrieval to meet and present their work. The symposium aims to cover all aspects of Document Computing and Information Retrieval. The symposium emphasises both commercial and academic issues by encouraging a variety of submissions.
 
 ### Steering Committee
 
-The steering committee is made up of the General Chairs and Program Chairs from the previous 6 ADCSes. As of December 2020, that is:
+The steering committee is made up of the General Chairs and Program Chairs from the previous 6 ADCSes. As of September, 2022, that is:
 
+* Joel Mackenzie, University of Queensland (2021).
 * Damiano Spina, RMIT University (2020).  
 * Gianluca Demartini, University of Queensland (2019).
 * Andrew Trotman, University of Otago (2018). 
@@ -20,10 +22,9 @@ The steering committee is made up of the General Chairs and Program Chairs from 
 * Guido Zuccon, Queensland University of Technology(2017). 
 * Sarvnaz Karimi, CSIRO (2016).
 * Laurence Park, Western Sydney University (2015).
-* Falk Scholer,	RMIT University (2014).
-* Shane Culpepper, RMIT (2014).
 
 ### History
+* [ADCS 2021](http://adcs-conference.org/2021/) Melbourne, RMIT University (Online, virtual seminar series).
 * [2020](http://adcs-conference.org/2020/) slated for Melbourne, Australia but cancelled due to COVID-19.
 * [2019](http://adcs-conference.org/2019/)  Sydney -- University of Technology Sydney
 * [2018](http://adcs-conference.org/2018/)  Dunedin -- University of Otago

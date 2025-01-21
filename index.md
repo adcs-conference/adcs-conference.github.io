@@ -3,7 +3,7 @@
 Australasian Document Computing Symposium is an annual conference held in Australia or New Zealand since 1996.
 
 
-* [ADCS 2021](http://adcs-conference.org/2021/) Melbourne, RMIT University.
+* [ADCS 2022](http://adcs-conference.org/2022/) Adelaide, Flinders University.
 
 ADCS is an opportunity for researchers and practitioners in document management and information retrieval to meet and present their work. The symposium aims to cover all aspects of Document Computing and Information Retrieval. The symposium emphasises both commercial and academic issues by encouraging a variety of submissions.
 
@@ -11,6 +11,10 @@ ADCS is an opportunity for researchers and practitioners in document management 
 
 The steering committee is made up of the General Chairs and Program Chairs from the previous 6 ADCSes. As of December 2020, that is:
 
+* Tina Du, Charles Sturt University (2022).
+* Mehwish Nasim, University of Western Australia (2022).
+* Maciek Rybinski, CSIRO/Data61 (2022).
+* Joel Mackenzie, University of Queensland (2021).
 * Damiano Spina, RMIT University (2020).  
 * Gianluca Demartini, University of Queensland (2019).
 * Andrew Trotman, University of Otago (2018). 
@@ -18,12 +22,12 @@ The steering committee is made up of the General Chairs and Program Chairs from 
 * Paul Thomas, Microsoft (2018).
 * Mark Carman, Monash University (2017). 
 * Guido Zuccon, Queensland University of Technology(2017). 
-* Sarvnaz Karimi, CSIRO (2016).
-* Laurence Park, Western Sydney University (2015).
-* Falk Scholer,	RMIT University (2014).
-* Shane Culpepper, RMIT (2014).
 
 ### History
+* [2024](https://www.sigir-ap.org/sigir-ap-2024//Melbourne%20Satellite) Naarm/Melbourne -- Satellite event for SIGIR-AP 2024
+* 2023 Naarm/Melbourne -- The University of Melbourne (satellite event for SIGIR-AP 2023)
+* [2022](http://adcs-conference.org/2022/) Adelaide -- Flinders University
+* [2021](http://adcs-conference.org/2021/) Naarm/Melbourne -- RMIT University and The University of Melbourne (Virtual Seminar Series)
 * [2020](http://adcs-conference.org/2020/) slated for Melbourne, Australia but cancelled due to COVID-19.
 * [2019](http://adcs-conference.org/2019/)  Sydney -- University of Technology Sydney
 * [2018](http://adcs-conference.org/2018/)  Dunedin -- University of Otago
